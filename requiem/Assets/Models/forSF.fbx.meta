@@ -1,0 +1,340 @@
+fileFormatVersion: 2
+guid: 046f6929d4a27474081b85b4f7733863
+ModelImporter:
+  serializedVersion: 27
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus-Sum_Man_RtSit_476_1k
+    second: {fileID: 2100000, guid: d00d99c0c490244eb8960f92accf7121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus-Sum_Man_RtSit_817_1k
+    second: {fileID: 2100000, guid: 27c6a5e3cf3554206919735483f939b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus-Sum_Man_RtStand_630_1k
+    second: {fileID: 2100000, guid: ab1f9bcf4a5c64ea2b53491814f83f48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus-Sum_Man_RtStand_636_1k
+    second: {fileID: 2100000, guid: 5dc4890e8e11943e9b7684544f990a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bus-Wint_Man_RtWalk_205_1k
+    second: {fileID: 2100000, guid: 3b4f1adce50fd42b59b24f0385e2e1ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Man_RtEmot_370_1k
+    second: {fileID: 2100000, guid: b5a82e6f3ce684c06b43991325c81bd0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Man_RtSit_216_1k
+    second: {fileID: 2100000, guid: b126485f4917b445fa23859125cdf078, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Man_RtSit_625_1k
+    second: {fileID: 2100000, guid: 6d4dadfe8800e4be8ba965997df0a45d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Man_RtStand_575_1k
+    second: {fileID: 2100000, guid: ef5bef2ce21984a7d98dfc5b3bc0c426, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Man_RtStand_852_1k
+    second: {fileID: 2100000, guid: 2c70b2ce7e88149bf82c91a688d2a153, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Man_RtStrs_207_1k
+    second: {fileID: 2100000, guid: 78e33006193af4453b0625d8a5124a5d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Man_RtStrs_208_1k
+    second: {fileID: 2100000, guid: 4ddb8d79caabf47e2820ab2ee1ee9c88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Plus1_RtStand_522_1k
+    second: {fileID: 2100000, guid: 3d8b396d9c6af46f39711ebf0db0392e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Plus1_RtStand_523_1k
+    second: {fileID: 2100000, guid: 4551bd202d73c4656b24c33241230534, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Plus2_RtSit_520_1k
+    second: {fileID: 2100000, guid: d9cfa591e5aa54345b5e6c0ae221cbf5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Wom_RtSit_652_1k
+    second: {fileID: 2100000, guid: 5cd2865bcd2d146cfb05bbd0749c214f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Wom_RtStand_601_1k
+    second: {fileID: 2100000, guid: 3d641679708f940728da6a55e8b7339b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Wom_RtStand_647_1k
+    second: {fileID: 2100000, guid: 4c3b0610e8cff419bbd57419dcda4dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Wom_RtStand_648_1k
+    second: {fileID: 2100000, guid: 42cc26ee990fb46668dd619851031145, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Wom_RtWalk_596_1k
+    second: {fileID: 2100000, guid: b5f8d39d8317142609e859ef8a200336, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Wom_RtWalk_660_1k
+    second: {fileID: 2100000, guid: 32de522722f15493c9a5a772a8437df3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Wom_RtWalk_883_1k
+    second: {fileID: 2100000, guid: 883f9ccbcf50345638453f899c93548f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Womplus1_RtSit_503_1k
+    second: {fileID: 2100000, guid: f13e0f5b9173043278acfa1f2672ab09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Womplus1_RtWalk_516_1k
+    second: {fileID: 2100000, guid: 0efa2ff6db54b4d42b8f07bbb4737fbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Womplus1_RtWalk_517_1k
+    second: {fileID: 2100000, guid: 705628ba5853a434e980d0f37b10b156, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Sum_Womplus1_RtWalk_518_1k
+    second: {fileID: 2100000, guid: 18a4abffb959547809abaa3da1550c04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Man_RtSit_608_1k
+    second: {fileID: 2100000, guid: 321d4aa66412b4a929480a73232139bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Man_RtStand_589_1k
+    second: {fileID: 2100000, guid: 848ee9eb8f25140efb6d3bd64e0b6854, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Man_RtStand_607_1k
+    second: {fileID: 2100000, guid: 849462ce25bec4dc297bfe60cd986858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Man_RtStand_640_1k
+    second: {fileID: 2100000, guid: 0b0e53d71b60148a79310a9a7ddc749f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Man_RtStand_701_1k
+    second: {fileID: 2100000, guid: da1709e0119a34c5198d0d448da6ec6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Wom_RtLay_562_1k
+    second: {fileID: 2100000, guid: 830b56c67611f420db4b489d4430c961, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Wom_RtSit_749_1k
+    second: {fileID: 2100000, guid: fd4ecc1bd2e0842a3a44d10a31c4ee53, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Win_Wom_RtStand_548_1k
+    second: {fileID: 2100000, guid: 9d824027754fc41d490d883e04661563, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas-Wint_Man_RtStand_479_1k
+    second: {fileID: 2100000, guid: 9956e8d12b5ca4a80b3f0f00229e3557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_BabyGirl_RtStand_953_1k
+    second: {fileID: 2100000, guid: 7312eea1f49684f24b2511ab442f08e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Man_RtSit_969_1k
+    second: {fileID: 2100000, guid: 56586df44dde9461eb23508b98e20396, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Man_RtStand_1025_1k
+    second: {fileID: 2100000, guid: b958ab3cbaa7945808a82e2a3ca2d369, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Man_RtStand_1194_1k
+    second: {fileID: 2100000, guid: a89e16c8b5498408181130af43ede9b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Man_RtStand_1199_1k
+    second: {fileID: 2100000, guid: 45eb8feb02905446d8d231a9b2c39347, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Man_RtWalk_1195_1k
+    second: {fileID: 2100000, guid: 3973cd46be27e403e95b78140af2094f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Wom_RtSit_1055_1k
+    second: {fileID: 2100000, guid: 67b490700c68f4ce7bed724fd5003919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Wom_RtStand_1045_1k
+    second: {fileID: 2100000, guid: 73b8518c8be4c42caaa18c9a4957c0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Wom_RtStand_1164_1k
+    second: {fileID: 2100000, guid: c574a004b7aef4f84a054484323c856c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Wom_RtStand_928_1k
+    second: {fileID: 2100000, guid: 597f7a1e0d82c4d3aa59150d83a4334b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cas_Sum_Wom_RtWalk_933_1k
+    second: {fileID: 2100000, guid: 8aec51e073d0b40a7b83cb5beb250779, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sport-Sum_Man_RtRun_297_1k
+    second: {fileID: 2100000, guid: 4481f322ea4fa4af78d984d530b62f0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sum_Womplus1_RtWalk_1167_1k
+    second: {fileID: 2100000, guid: bcef8aa00b93a41fa96231e9cdcbc95b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _Cas-Win_Wom_RtWalk_746_1k
+    second: {fileID: 2100000, guid: b9b43f1a6ac71404593a8ab22896de1e, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
